@@ -1,0 +1,294 @@
+{
+   "result": [
+      {
+         "adr_address": "<span class='street-address'>Huuskantie 8</span>, <span class='postal-code'>21380</span> <span class='locality'>Aura</span>, <span class='country-name'>Finland</span>",
+         "name": "Autokorjaamo Aura",
+         "rating": 4.5,
+         "reviews": [
+            {
+               "author_name": "Markku Löytty",
+               "author_url": "https: //www.google.com/maps/contrib/106119721491501346042/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhOYD6b1NhYLi4uerJOwAFL8gobj8V8fjMWFTkrEg=s128-c0x00000000-cc-rp-mo-ba3",
+               "rating": 5,
+               "relative_time_description": "a month ago",
+               "text": "Affordable, knowledgeable staff. Good service.",
+               "time": 1615030389
+            },
+            {
+               "author_name": "Auran äijä Tuubi kanala",
+               "author_url": "https://www.google.com/maps/contrib/107987646623809055112/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgxxjtEMCFKxqYEzUk6OoYseGMG5uif3JSYHGEIxQ=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "2 months ago",
+               "text": "Do what they promise and well, thank you for the good work and getting the benefit of the customer",
+               "time": 1612295615
+            },
+            {
+               "author_name": "Veli-Matti Ketola",
+               "author_url": "https://www.google.com/maps/contrib/115205913263456210272/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwTSngSiuudJneZmd_WZcYjm-oG8u6Xbnk2AvbT=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "2 months ago",
+               "text": "I did not receive the service was told to call another repair shop",
+               "time": 1612411469
+            },
+            {
+               "author_name": "Pirjo Pajula",
+               "author_url": "https://www.google.com/maps/contrib/116583787015857143429/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxMuhs1WVwsz00YEIytBnyZ8Rk7n9KQxL-diMCQ=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "a year ago",
+               "text": "It is an absolute must if you have a problem with your car, you can always get help.",
+               "time": 1583578266
+            },
+            {
+               "author_name": "Laura Puisto",
+               "author_url": "https://www.google.com/maps/contrib/112979899063357596948/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhsaD4q1Y-IHdRDR_f9OEKbxFt8b74bUV1WkXcCFQ=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "2 years ago",
+               "text": "I never received a receipt for the purchased parts with specifications, although I asked for 2-3 months and they were promised me at first. Since the price was big and a little bit remade, these receipts would have been nice to see.",
+               "time": 1550303057
+            }
+         ],
+         "user_ratings_total": 27
+      },
+      {
+         "adr_address": "<span class='street-address'>Kartanonherrantie 7 B</span>, <span class='postal-code'>02920</span> <span class='locality'>Espoo</span>, <span class='country-name'>Finland</span>",
+         "name": "AD-Autokorjaamo Drive-In",
+         "rating": 4.9,
+         "reviews": [
+            {
+               "author_name": "Howard",
+               "author_url": "https://www.google.com/maps/contrib/109206013468643864526/reviews",
+               "language": "en",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhAPXiv3jFGzrxRrEd9FbLu5eXgWJewERP5UNN70Q=s128-c0x00000000-cc-rp-mo-ba4",
+               "rating": 5,
+               "relative_time_description": "a month ago",
+               "text": "reasonable price, responsible work and friendly staff, recommend!",
+               "time": 1615900621
+            },
+            {
+               "author_name": "Päivi Anttila",
+               "author_url": "https://www.google.com/maps/contrib/108485477601309201505/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJypa5ULGj0urMu5s79gWv4PPxdfwnMqJ4yueYuf=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "2 months ago",
+               "text": "Absolutely great, friendly and good service always! Things are handled professionally! And a replacement car is a big plus! Really warm recommendation!",
+               "time": 1612801073
+            },
+            {
+               "author_name": "Risto Rulamo",
+               "author_url": "https://www.google.com/maps/contrib/115803420344818418533/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyuaYwSzhRH3gLI1krCO3nEOT2HBNN0uUOawNdl=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "6 months ago",
+               "text": "Really friendly service and staff. I installed the old heater to replace the old one and changed the oil / filter. The time was a little exceeded, but it wasn't bad because there was a replacement car. A good point indeed is the replacement car for the repair. I will take another car for an oil change next week. I highly recommend. The price was what I was promised.",
+               "time": 1604073673
+            },
+            {
+               "author_name": "Jukka Matilainen",
+               "author_url": "https://www.google.com/maps/contrib/116163432928234848442/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxBb6CvoWtL2of30V7Q_vHZqqRx_py5mcn7zvLY=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "5 months ago",
+               "text": "Quite a great place. The car did not go through the inspection because there was a hole in the skirt. The surveyor said it needs to be welded. After welding, I took it to the same inspection station, only to find that it has been nicely repaired! Great value for money!",
+               "time": 1604503888
+            },
+            {
+               "author_name": "Jonita Martelius",
+               "author_url": "https://www.google.com/maps/contrib/109511910226773086444/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxx1T7iyeYEvd6wlNYCopQI-Xu6kdeyZBvRHUig=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "3 weeks ago",
+               "text": "Exceptionally knowledgeable and friendly service!",
+               "time": 1617878410
+            }
+         ],
+         "user_ratings_total": 33
+      },
+      {
+         "adr_address": "<span class='street-address'>Soukantie 13</span>, <span class='postal-code'>02360</span> <span class='locality'>Espoo</span>, <span class='country-name'>Finland</span>",
+         "name": "Soukan Autokorjaamo ja Autotarvike Oy",
+         "rating": 3,
+         "reviews": [
+            {
+               "author_name": "Sirpa K",
+               "author_url": "https://www.google.com/maps/contrib/106009131074256863353/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwl2A_YBEJbNQVJmAbfg_vZhlKh9bLuuwMc_t-k7g=s128-c0x00000000-cc-rp-mo-ba2",
+               "rating": 5,
+               "relative_time_description": "5 months ago",
+               "text": "Friendly and flexible service, clear price estimate, punctual execution. I didn't come up with a complaint.",
+               "time": 1606914675
+            },
+            {
+               "author_name": "Matti Everhall",
+               "author_url": "https://www.google.com/maps/contrib/115959094257785109509/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GiP5yqP28IZMHpqvelsHQHQwVo8KZWLKWikdLcd=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "8 months ago",
+               "text": "EXTREMELY EXPENSIVE AND NON-PROFESSIONAL!\\nI wouldn’t give a single star unless I had to get this published!\\n\\nAt that workshop, I replaced my extra reversing light with exactly the same ones (Small LED bulbs attached to the back plate of the license plate).\\nI had purchased the lamps myself, so it's just a job / replacement.\\nAgain, they couldn’t do without damaging my car.\\nThe work was done with sheet metal screws (Previously done with a bolt and nut) which damaged the paintwork of my tailgate, and made a hole / mark in it.\\nI had to do the work again in another repair shop in a matter-of-fact manner and repair the damage.\\nAt the same time, one bulb was replaced with my actual reversing light.\\nThis completely unprofessional “work” cost a total of € 167.30\\n\\nI also competed in the service of my car Opel Zafira Tourer Cosmo 2.0 CDTI at a few garages in my area, which included:\\n- Replacing the timing belt, belt set and water pump\\n- Replacement of front and rear brake pads.\\n\\nAt that workshop, the price would have been € 1222.65\\nAt the importer's (LänsiAuto) repair shop € 908 (€ 314.65 cheaper)\\nAt Servon Oy (Motonet Korjaamo Hannuksenpelto) € 760 (€ 462.65 cheaper)\\n\\n(The price of the original spare parts purchased from LänsiAuto as a private customer would have been € 448.44)\\n\\nI asked Souka Autokorjaamo for the reason for the huge price difference, and the explanation was “WE HAVE PROVIDED YOU PARTS CORRESPONDING ORIGINAL PARTS THAT ARE YES SIGNIFICANTLY MORE EXPENSIVE THAN ACCESSORIES”!\\nI asked him what the difference is between the “original part and the accessory part” when I think they are the same thing.\\nI didn't get a rational answer !!!\\nBut apparently the “accessory parts” in that workshop are so full of rubbish and the “parts like the original” are prohibitively expensive!\\n\\nSo the price difference is huge, so first of all I recommend bidding for other repair shops in your area, and I really don't recommend Soukan Autokorjaamo and Autotarvike Oy for several reasons!",
+               "time": 1598522975
+            },
+            {
+               "author_name": "Honcho",
+               "author_url": "https://www.google.com/maps/contrib/107843916494891986121/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gg2E_FECdJKThJPKDDeaNZrwSgzZdj4d6eJOYYAow=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "11 months ago",
+               "text": "A couple of weeks ago I went to show a car. Did not notice that the charger broken. Not to continue.",
+               "time": 1590758980
+            },
+            {
+               "author_name": "Paul Krug",
+               "author_url": "https://www.google.com/maps/contrib/107389363024876926502/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gj8moNaXAIYeTh-20EEo46gZgjeuK7M3mLAfYmPkA=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "8 months ago",
+               "text": "Good and knowledgeable service. Reasonable prices.",
+               "time": 1598437004
+            },
+            {
+               "author_name": "Krista Eckhardt",
+               "author_url": "https://www.google.com/maps/contrib/105817537100533442294/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyPo_Dht6flbbwNTdG3zKRPBGl5bJYB9IPJIIdq=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "a year ago",
+               "text": "No follow up",
+               "time": 1587502591
+            }
+         ],
+         "user_ratings_total": 16
+      },
+      {
+         "adr_address": "<span class='street-address'>Mustamäentie 84</span>, <span class='postal-code'>24910</span> <span class='locality'>Halikko</span>, <span class='country-name'>Finland</span>",
+         "name": "Fixus Halikko Ville Nikkanen Ltd",
+         "rating": 4.7,
+         "reviews": [
+            {
+               "author_name": "Antti Heinonen",
+               "author_url": "https://www.google.com/maps/contrib/108059700593179200701/reviews",
+               "language": "en",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgMwlo7rbo4xHwkCQLAIEln2VDo-93NFCmgII9xlQ=s128-c0x00000000-cc-rp-mo-ba2",
+               "rating": 4,
+               "relative_time_description": "3 years ago",
+               "text": "Friendly and trustworthy professional. Great quality with competetive price.",
+               "time": 1504850655
+            },
+            {
+               "author_name": "Johanna Maja",
+               "author_url": "https://www.google.com/maps/contrib/106738265288166925069/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyFmH0JPRIMFcoXMOkUkLo-ch-vDF30rYwRQz04=s128-c0x00000000-cc-rp-mo-ba2",
+               "rating": 5,
+               "relative_time_description": "8 months ago",
+               "text": "Fast service, things are taken care of, and you don't pay the impossible.",
+               "time": 1598086210
+            },
+            {
+               "author_name": "Johannes Nurmi",
+               "author_url": "https://www.google.com/maps/contrib/112343795827593639424/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjjSlUIvHiD_4MAdW7WcJjG4-oX9YNQPQ2vo5afWKg=s128-c0x00000000-cc-rp-mo-ba3",
+               "rating": 5,
+               "relative_time_description": "10 months ago",
+               "text": "Really knowledgeable and helpful guy. I have been around for years, and yet anything other than positive things to say.",
+               "time": 1591886316
+            },
+            {
+               "author_name": "Otso",
+               "author_url": "https://www.google.com/maps/contrib/112607475266729004073/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyUhcN3FurNc3ADeRx5RPV4ddQKxNy4ZXKXLWyY=s128-c0x00000000-cc-rp-mo-ba2",
+               "rating": 5,
+               "relative_time_description": "11 months ago",
+               "text": "Good customer service, skilled things to do. The customer feels welcome.",
+               "time": 1590593513
+            },
+            {
+               "author_name": "Marko Kanninen",
+               "author_url": "https://www.google.com/maps/contrib/101571944281076857854/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJybuIc69bzGKHE9Di1W45UBVaVXojgVLd5OeYUv=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "a year ago",
+               "text": "The first repair shop to really advise on the maintenance and service of your vehicle. I recommend!",
+               "time": 1580040386
+            }
+         ],
+         "user_ratings_total": 15
+      },
+      {
+         "adr_address": "<span class='street-address'>Kutojantie 2 C</span>, <span class='postal-code'>02630</span> <span class='locality'>Espoo</span>, <span class='country-name'>Finland</span>",
+         "name": "AD HS-Autopalvelu Oy ESPOO",
+         "rating": 4.1,
+         "reviews": [
+            {
+               "author_name": "Mateen Abdul",
+               "author_url": "https://www.google.com/maps/contrib/101901138320856060171/reviews",
+               "language": "en",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzqRYqHhBQ9UVnnl-JuN2D3u7H9DoT5MzBC3JfL=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "a year ago",
+               "text": "Worst experience ever. Charged 119 Eur for just telling the wire issue that I already mentioned while leaving the car. I am not coming back at this place.",
+               "time": 1557841867
+            },
+            {
+               "author_name": "Tuomas Mikkola",
+               "author_url": "https://www.google.com/maps/contrib/115736826407834835881/reviews",
+               "language": "en",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyBEbjT5YjmUd1ut1juczz3Yz24B6jTa2xvAf0b=s128-c0x00000000-cc-rp-mo-ba4",
+               "rating": 5,
+               "relative_time_description": "2 years ago",
+               "text": "It's an auto repairshop",
+               "time": 1527597135
+            },
+            {
+               "author_name": "Janne Kuusela",
+               "author_url": "https://www.google.com/maps/contrib/116179009376714781533/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJz6P2Z5i5sD6clHkiOShag6zHW-DVHyDpvcsvH8=s128-c0x00000000-cc-rp-mo",
+               "rating": 1,
+               "relative_time_description": "7 months ago",
+               "text": "Manual operation brake type fault 'clearing operation' 114 euros! As a result of the proposed repair measure 'replace the entire handbrake block' Part of about 400 + several hours of work a '83 euros / h. 'Own layman's report that lasted 5 min (Google) .Replaceable part of 35 euros + work 50 euros.",
+               "time": 1601670004
+            },
+            {
+               "author_name": "Jarkko Lehtinen",
+               "author_url": "https://www.google.com/maps/contrib/113106581768706187998/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzQ9RgOPyIpW1Pcp9asJDe5H2wZv6bVyRwZ686N=s128-c0x00000000-cc-rp-mo-ba4",
+               "rating": 5,
+               "relative_time_description": "5 months ago",
+               "text": "Professional car repair shop. Now also ATV maintenance!",
+               "time": 1604579998
+            },
+            {
+               "author_name": "Karl Granström",
+               "author_url": "https://www.google.com/maps/contrib/101831853719541135849/reviews",
+               "language": "en-GB",
+               "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gipw2L9uDnDASZsHppLgD7dFrLY1T6bTkKZoPkDXVo=s128-c0x00000000-cc-rp-mo",
+               "rating": 5,
+               "relative_time_description": "8 months ago",
+               "text": "Here the service level in all areas is 10/5!",
+               "time": 1597405584
+            }
+         ],
+         "user_ratings_total": 38
+      }
+   ]
+}
